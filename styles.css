@@ -1,4 +1,4 @@
- *{
+*{
       margin: 0;
             padding: 0;
             box-sizing: border-box;
@@ -120,4 +120,57 @@
         .jobhuntapp-card p{
           font-size: 16px
         }
-        
+        .contact-right form{
+          width:100%;
+          margin-left: 80px;
+          margin-top: -199px;
+          
+        }
+        form input, form textarea{
+          width: 50%;
+          border: 0;
+          outline: none;
+          background: #262626;
+          padding: 15px;
+          margin: 5px;
+          margin-left:228px;
+          color: #fff;
+          font-size: 18px;
+          border-radius: 10px;
+        }
+        .contact-left {
+          margin-top: 60px
+          
+        }
+        .contact-left p{
+          padding: 10px;
+        }
+        .contact-left i:hover{
+          color:blue;
+       
+        }
+        .social-icons i{
+          color:white;
+          margin-left:10px;
+        }
+        .contact-left p i{
+          margin-right:10px;
+        } 
+        .contact-left h1{
+          padding:13px;
+        }
+        .contact-right button{
+          background:blue;
+          color:white;
+          width:90px;
+          height:40px;
+          margin-left: -310px;
+          
+        }
+        .btn{
+          background:blue;
+          color:white;
+          width:10px;
+          padding:15px;
+          text-decoration:none;
+        }
